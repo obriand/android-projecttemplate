@@ -1,4 +1,8 @@
-package com.obriand.android_projecttemplate;
+package com.obriand.android_projecttemplate.activity;
+
+import com.obriand.android_projecttemplate.R;
+import com.obriand.android_projecttemplate.R.layout;
+import com.obriand.android_projecttemplate.R.menu;
 
 import android.os.Bundle;
 import android.app.Activity;
